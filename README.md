@@ -1,2 +1,4 @@
-# foobar
-My solutions for Google's foo.bar challenges
+# My solutions for Google's Foo.Bar challenges
+
+![Challenge](https://raw.github.com/iBeliever/foobar/master/images/challenge.png)
+![Status](https://raw.github.com/iBeliever/foobar/master/images/status.png)
